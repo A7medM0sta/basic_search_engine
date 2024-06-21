@@ -1,0 +1,6 @@
+nltk
+os
+numpy
+math
+warnings
+pandas
